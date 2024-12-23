@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,starrails.com
 #ZenlessZoneZero
 IP-CIDR,104.18.0.0/18
 IP-CIDR,13.226.0.0/20
+IP-CIDR,8.221.0.0/20
 DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,juequling.com
 

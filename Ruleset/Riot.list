@@ -1,0 +1,5 @@
+PROCESS-NAME,Riot Client.exe
+PROCESS-NAME,LeagueClientUxRender.exe
+PROCESS-NAME,League of Legends.exe
+PROCESS-NAME,LeagueCrashHandler64.exe
+DOMAIN-KEYWORD,Riot

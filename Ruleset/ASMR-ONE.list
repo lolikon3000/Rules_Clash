@@ -8,4 +8,7 @@ DOMAIN-SUFFIX,asmr.one
 
 #Download
 DOMAIN-SUFFIX,kiko-play-niptan.one
+DOMAIN-SUFFIX,raw.kiko-play-niptan.one
+DOMAIN-SUFFIX,large.kiko-play-niptan.one
 IP-CIDR,104.26.4.140/32
+
